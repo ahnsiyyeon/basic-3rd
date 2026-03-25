@@ -10,9 +10,9 @@
 ### 제출 방법
 아래 구조를 따라 GitHub에 업로드<br>
 week02/<br>
- └ 본인이름/<br>
-    ├ README.md<br>
-    └ capture.pcapng<br>
+&nbsp; └ 본인이름/<br>
+&nbsp;&nbsp;    ├ README.md<br>
+&nbsp;&nbsp;    └ capture.pcapng<br>
 
 ### 제출 파일
 - Wireshark 패킷 캡처 파일 (`.pcapng`)
