@@ -17,8 +17,6 @@ HTTPS를 HTTP로 변경하여 패킷이 보이도록 하였다.
 
 ### 4. PDF 파일 다운로드
 
-다운로드 과정에서 경고창이 발생하였고, 계속 버튼을 눌러 진행하였다.
-사진을 보면 pdf 파일이 잘 다운받아진 것을 확인할 수 있다.
 <img width="2879" height="1707" alt="Image" src="https://github.com/user-attachments/assets/0e92791c-42df-4a66-b662-1fd9aae4c0e1" />
 
 ### 5. 상태 코드 분석
